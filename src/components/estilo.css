@@ -1,0 +1,9 @@
+.fondo{
+    background-color: brown;
+    width: 100%;
+    height: 100%;
+}
+
+.btn-outline-dark{
+    background-color: white !important;
+}
